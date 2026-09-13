@@ -6,7 +6,7 @@ on:
       repository:
         description: Repository to audit after transfer (owner/name)
         required: true
-        default: enclaro/Autka
+        default: travnie/Autka
       legacy_owner:
         description: Previous repository owner
         required: true
