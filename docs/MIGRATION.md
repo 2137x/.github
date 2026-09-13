@@ -1,6 +1,6 @@
 # Repository migration helper
 
-Use **Migration Audit** after moving a public repository from `trvny/*` to `enclaro/*`.
+Use **Migration Audit** after moving a public repository from `trvny/*` to `travnie/*`.
 
 The workflow checks:
 
@@ -15,7 +15,7 @@ For a deeper local audit with the currently authenticated GitHub account:
 
 ```powershell
 $env:GH_TOKEN = gh auth token
-$env:TARGET_REPO = 'enclaro/wambridge'
+$env:TARGET_REPO = 'travnie/wambridge'
 $env:LEGACY_OWNER = 'trvny'
 node .github/scripts/migration-audit.cjs
 ```
