@@ -8,7 +8,7 @@
 **把开源项目收进同一个屋檐下：应用、订阅源、媒体、自动化，以及那些不知怎么就长成基础设施的小机器。**
 
 [![organization](https://img.shields.io/badge/travnie-181717?style=for-the-badge&logo=github)](https://github.com/travnie)
-[![Docs7](../assets/badges/docs7.svg)](https://twojstar.docs7.io/)
+[![Docs7](../assets/badges/docs7.svg)](https://travnie.docs7.io/)
 [![Cloudflare](https://workers.cloudflare.com/built-with-cloudflare.svg)](https://trfny.com)
 
 <sub></sub>
